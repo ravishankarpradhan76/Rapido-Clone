@@ -1,4 +1,4 @@
-# Netflix UI-Clone App
+# Rapido UI-Clone App
 
 This is a simple Flutter application.
 
